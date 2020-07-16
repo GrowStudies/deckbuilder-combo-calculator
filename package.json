@@ -1,0 +1,15 @@
+{
+  "name": "deckbuilder",
+  "version": "1.0.0",
+  "description": "a deckbuilding simulator for calculating chance of a combo(s) being pulled off",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Billy Chandra",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.9.6"
+  }
+}
